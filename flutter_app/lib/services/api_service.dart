@@ -5,7 +5,7 @@ import '../models/transaction.dart';
 class ApiService {
   // Chrome on this PC: 127.0.0.1. Android emulator: 10.0.2.2.
   // Physical phone: replace with your computer's LAN IP address.
-  static const String baseUrl = 'http://127.0.0.1:8000';
+  static const String baseUrl = 'https://spendly-c8y7.onrender.com';
   static const Duration timeout = Duration(seconds: 20);
 
   static Future<dynamic> _decode(http.Response response) async {
