@@ -1,0 +1,16 @@
+date,description,amount,type,category
+2026-11-01,Monthly Salary,45000,income,Salary
+2026-11-02,Grocery Store,1850,expense,Groceries
+2026-11-03,Uber Ride,320,expense,Travel
+2026-11-04,Swiggy Order,540,expense,Food
+2026-11-05,Netflix Subscription,649,expense,Entertainment
+2026-11-06,Freelance Project,8000,income,Freelance
+2026-11-07,Petrol,1200,expense,Travel
+2026-11-08,Clothing Purchase,2499,expense,Shopping
+2026-11-09,Electricity Bill,1750,expense,Bills
+2026-11-10,Cafe Coffee,280,expense,Food
+2026-11-11,Pharmacy,460,expense,Health
+2026-11-12,Movie Tickets,700,expense,Entertainment
+2026-11-13,Online Course,1499,expense,Education
+2026-11-14,Dinner with Friends,1350,expense,Food
+2026-11-14,Cashback,150,income,Other

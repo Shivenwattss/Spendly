@@ -1,0 +1,9 @@
+{
+  "name": "Spendly",
+  "short_name": "Spendly",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F5F6F8",
+  "theme_color": "#4778D8",
+  "description": "Personal finance and spending analytics"
+}
